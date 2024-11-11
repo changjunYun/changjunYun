@@ -1,4 +1,5 @@
-## Hi there 👋
+### Hi I'm changjun 👋
+#### I'm React, Flutter Developer 
 
 <!--
 **changjunYun/changjunYun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
